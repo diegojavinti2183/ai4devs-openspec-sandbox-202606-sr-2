@@ -30,7 +30,7 @@ Criterios de éxito
 -Verifica los casos de prueba e implementa el archivo con la función.
 
 *Resultado:* ¿Funcionó a la primera o tuviste que iterar?
--No funciono a la primera tuve ambiguedad en el caso de que las pruebas fallaran.
+-No funciono a la primera tuve ambiguedad para las pruebas estaban con fallas.
  Una mejora que harías si volvieras a hacerlo.
  - La mejora que hice fue aplique el modelo la solucion minima razonable, tambien vi necesario ingresar unos ejemplos de mails correctos como de mails incorrectos para tener un mejor resultado
 
